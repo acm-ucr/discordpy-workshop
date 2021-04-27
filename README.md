@@ -34,7 +34,13 @@ Your TOKEN MUST BE KEPT SECRET. DO NOT SHARE OR PUBLISH YOUR
 
 Modify 01 to do something with on_message. 
 
-02 - Command Handler
+02 - Command Handler/Why do we need one
+
+03 - Ban Me Command
+
+04 - Ban Someone Else Command
+
+05 - Optional Parameters
 
 
 
