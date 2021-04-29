@@ -28,6 +28,14 @@ Your TOKEN MUST BE KEPT SECRET. DO NOT SHARE OR PUBLISH YOUR
 
 ## Goals
 
+Go over Discord (guild. channel, message, user)
+
+Enable Developer Mode
+
+Create a Bot Application (Developer Portal)
+
+Discord Docs: Installation, Quickstart
+
 00 - Understand Await/Async, Basic Form of a Bot
 
 01 - Understand the purpose of events. Understand Attributes tied to parameters.
